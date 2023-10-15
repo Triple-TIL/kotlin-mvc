@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: backoffice-service
+    profiles:
+        active: local
