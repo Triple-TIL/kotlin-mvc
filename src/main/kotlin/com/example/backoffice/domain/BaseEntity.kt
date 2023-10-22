@@ -1,5 +1,6 @@
 package com.example.backoffice.domain
 
+import com.example.backoffice.service.dto.PostUpdateRequestDto
 import jakarta.persistence.MappedSuperclass
 import java.time.LocalDateTime
 
